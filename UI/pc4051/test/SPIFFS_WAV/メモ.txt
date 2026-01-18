@@ -1,0 +1,13 @@
+SPIFFS使い方
+・esp32のボードマネージャーを1.0.4にする
+・/home/ユーザー/Arduino/tools/ESP32FS/tool/esp32fs.jar と配置
+https://github.com/lorol/arduino-esp32fs-plugin
+の
+https://github.com/lorol/arduino-esp32fs-plugin/releases/download/2.0.7/esp32fs.zip
+・旧arduino ideでspiffs書き込み
+・いつもの開発環境に戻ったら忘れずesp32のバージョンを戻す
+
+参考:
+https://www.farmsoft.jp/2166/
+https://www.farmsoft.jp/2065/
+https://rntlab.com/question/spiffs-error-esptool-not-found/
