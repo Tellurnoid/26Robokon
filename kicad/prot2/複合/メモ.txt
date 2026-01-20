@@ -1,0 +1,16 @@
+マイコン側のダイオード
+
+https://akizukidenshi.com/catalog/g/g117439/
+ショットキーバリアダイオード 45V2A SBM245L
+多分ボツ
+
+○コンデンサ
+(桑子の)
+100uf
+Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+
+・RS同士をつないで、抵抗はさんでGNDに落とす
+
+ニッスイx2直列で12Vモーター？
+
+TB67Hは50V3.5Aまで
